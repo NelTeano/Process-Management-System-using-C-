@@ -1,0 +1,14 @@
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\bin\Debug\net8.0\Activity 2(C#).exe
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\bin\Debug\net8.0\Activity 2(C#).deps.json
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\bin\Debug\net8.0\Activity 2(C#).runtimeconfig.json
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\bin\Debug\net8.0\Activity 2(C#).dll
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\bin\Debug\net8.0\Activity 2(C#).pdb
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).AssemblyInfoInputs.cache
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).AssemblyInfo.cs
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).csproj.CoreCompileInputs.cache
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).dll
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\refint\Activity 2(C#).dll
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).pdb
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\Activity 2(C#).genruntimeconfig.cache
+C:\Users\Teano\Documents\JONEL FILES\JONEL THIRD YEAR COLLEGE\OPERATING SYSTEMS\Activity 2(C#)\obj\Debug\net8.0\ref\Activity 2(C#).dll
